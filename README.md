@@ -8,7 +8,7 @@
 
 Thank you for your attention. This is the official codebase for DKAN. 
 
-<img src="./figure/framework.png" title="DKAN"/>
+<img src="./Figure/framework.png" title="DKAN"/>
 
 ## Environment
 
