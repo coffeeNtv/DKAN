@@ -1,10 +1,11 @@
 # Dual-Path Knowledge-Augmented Contrastive Alignment Network for Spatially Resolved Transcriptomics - AAAI 2026 Oral
 
-<p align="center">
+<p align="left">
   <a href="https://arxiv.org/abs/2511.17685" target="_blank"><img src="https://img.shields.io/badge/arXiv-2511.17685-red"></a>
   <a href="https://huggingface.co/datasets/wzhang472/dkan" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange"></a>
   <a href="https://huggingface.co/papers/2505.21497" target="_blank"><img 
 </p>
+
 
 Thank you for your attention. This is the official codebase for DKAN. 
 
