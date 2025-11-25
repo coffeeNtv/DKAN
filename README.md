@@ -95,6 +95,8 @@ Please see ./evaluation/metric.ipynb to reproduce the results reported in our pa
 
 - [x] Release our prompts we used in this study
 
+- [x] Release raw data from NCBI database
+
 - [x] Release code for training and evaluation
 
 - [x] Release code for reproducing our results 
