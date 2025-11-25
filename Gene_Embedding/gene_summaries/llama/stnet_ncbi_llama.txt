@@ -1,0 +1,250 @@
+RPS3	gene symbol: RPS3. Functionality: ribosomal protein involved in protein synthesis and dna repair Phenotype: breast cancer susceptibility 
+IGLL5	gene symbol: IGLL5. Functionality: encodes immunoglobulin lambda-like polypeptide Phenotype: breast cancer 
+RPLP1	gene symbol: RPLP1. Functionality: encodes a ribosomal phosphoprotein Phenotype: plays an important role in the elongation step of protein synthesis 
+TFF3	gene symbol: TFF3. Functionality: protect mucosa Phenotype: goblet cells of intestines and colon 
+RPS18	gene symbol: RPS18. Functionality: encodes a ribosomal protein Phenotype: involved in protein synthesis 
+GAPDH	gene symbol: GAPDH. Functionality: encodes a member of the glyceraldehyde-3-phosphate dehydrogenase protein family Phenotype: moonlighting protein with mechanistically distinct functions, including energy-yielding step in carbohydrate metabolism, uracil dna glycosylase activity in the nucleus, antimicrobial activity against e. coli, p. aeruginosa, and c. albicans 
+TMSB10	gene symbol: TMSB10. Functionality: actin monomer binding and cytoskeleton regulation Phenotype: breast cancer 
+RPLP2	gene symbol: RPLP2. Functionality: ribosomal phosphoprotein Phenotype: plays an important role in the elongation step of protein synthesis 
+RPS14	gene symbol: RPS14. Functionality: ribosomal protein Phenotype: breast cancer 
+RPL37A	gene symbol: RPL37A. Functionality: ribosomal protein Phenotype: breast cancer 
+RPS19	gene symbol: RPS19. Functionality: encodes a ribosomal protein Phenotype: involved in protein synthesis, diamond-blackfan anemia (dba) and colon carcinoma 
+RPL28	gene symbol: RPL28. Functionality: encodes a ribosomal protein Phenotype: plays a role in protein synthesis 
+KRT19	gene symbol: KRT19. Functionality: keratin protein Phenotype: breast cancer 
+RPL8	gene symbol: RPL8. Functionality: ribosomal protein Phenotype: breast cancer 
+RPL13	gene symbol: RPL13. Functionality: ribosomal protein l13e Phenotype: increased expression in benign breast lesions compared to breast carcinomas 
+RPL19	gene symbol: RPL19. Functionality: ribosomal protein Phenotype: breast cancer 
+ACTB	gene symbol: ACTB. Functionality: encodes actin protein involved in cell motility and structure Phenotype: baraitser-winter syndrome 1 (intellectual disability with distinctive facial appearance in humans) 
+RPL36	gene symbol: RPL36. Functionality: ribosomal protein Phenotype: breast cancer 
+RPL18A	gene symbol: RPL18A. Functionality: ribosomal protein Phenotype: involved in protein synthesis and viral replication 
+RPL35	gene symbol: RPL35. Functionality: ribosomal protein l35 Phenotype: involved in protein synthesis and ribosome biogenesis 
+RPL18	gene symbol: RPL18. Functionality: ribosomal protein Phenotype: breast cancer 
+RPS2	gene symbol: RPS2. Functionality: encodes a ribosomal protein Phenotype: ribosomes, the organelles that catalyze protein synthesis 
+RPS12	gene symbol: RPS12. Functionality: encodes ribosomal protein s12e Phenotype: increased expression in colorectal cancers compared to matched normal colonic mucosa 
+RPS21	gene symbol: RPS21. Functionality: encodes a ribosomal protein Phenotype: involved in protein synthesis 
+RACK1	gene symbol: RACK1. Functionality: enables cyclin binding activity, enzyme binding activity, and protein domain specific binding activity. Phenotype: involved in regulation of protein metabolic process, regulation of signal transduction, and regulation of vesicle-mediated transport. 
+RPL13A	gene symbol: RPL13A. Functionality: ribosomal protein Phenotype: breast cancer 
+CTSD	gene symbol: CTSD. Functionality: peptidase activity Phenotype: breast cancer 
+FTL	gene symbol: FTL. Functionality: encodes the light subunit of the ferritin protein Phenotype: affects the rates of iron uptake and release in different tissues, associated with several neurodegenerative diseases and hyperferritinemia-cataract syndrome 
+PFN1	gene symbol: PFN1. Functionality: actin dynamics regulator Phenotype: breast cancer 
+MGP	gene symbol: MGP. Functionality: inhibits ectopic tissue calcification Phenotype: keutel syndrome (cartilage calcification, peripheral pulmonary stenosis, facial hypoplasia) 
+RPS15	gene symbol: RPS15. Functionality: encodes a ribosomal protein Phenotype: activated in various tumors, such as insulinomas, esophageal cancers, and colon cancers. 
+RPS11	gene symbol: RPS11. Functionality: ribosomal protein Phenotype: breast cancer 
+RPS16	gene symbol: RPS16. Functionality: ribosomal protein Phenotype: breast cancer 
+HLA-B	gene symbol: HLA-B. Functionality: presents peptides derived from endoplasmic reticulum lumen to t-cells for immune response Phenotype: expressed in nearly all cells, plays a central role in immune system 
+UBA52	gene symbol: UBA52. Functionality: ubiquitin ligase Phenotype: breast cancer 
+NHERF1	gene symbol: NHERF1. Functionality: regulates sodium/hydrogen exchange Phenotype: breast cancer 
+RPS17	gene symbol: RPS17. Functionality: ribosomal protein Phenotype: breast cancer 
+PSAP	gene symbol: PSAP. Functionality: encodes a lung surfactant protein Phenotype: essential for surfactant homeostasis and defense against respiratory pathogens 
+RPLP0	gene symbol: RPLP0. Functionality: encodes a ribosomal protein Phenotype: plays a crucial role in protein synthesis 
+SERF2	gene symbol: SERF2. Functionality: protein destabilization Phenotype: breast cancer 
+RPS27	gene symbol: RPS27. Functionality: encodes a ribosomal protein Phenotype: plays a crucial role in protein synthesis 
+RPS8	gene symbol: RPS8. Functionality: ribosomal protein Phenotype: increased expression in colorectal tumors and colon polyps 
+RPL27A	gene symbol: RPL27A. Functionality: ribosomal protein Phenotype: breast cancer 
+MUC1	gene symbol: MUC1. Functionality: membrane-bound protein, mucin family Phenotype: protective mucous barriers, intracellular signaling, cell-adhesion, cell signaling 
+RPS28	gene symbol: RPS28. Functionality: ribosomal protein Phenotype: breast cancer 
+H2AJ	gene symbol: H2AJ. Functionality: histone variant Phenotype: regulates chromatin structure and gene expression 
+RPL10	gene symbol: RPL10. Functionality: ribosomal protein Phenotype: breast cancer 
+CALR	gene symbol: CALR. Functionality: endoplasmic reticulum chaperone protein involved in protein folding quality control and calcium homeostasis Phenotype: breast cancer associated protein 
+RPS29	gene symbol: RPS29. Functionality: ribosomal protein Phenotype: breast cancer 
+RPL38	gene symbol: RPL38. Functionality: ribosomal protein l38e Phenotype: component of 60s subunit of ribosome 
+RPL11	gene symbol: RPL11. Functionality: ribosomal protein Phenotype: breast cancer 
+P4HB	gene symbol: P4HB. Functionality: hydroxylation of prolyl residues in preprocollagen Phenotype: breast cancer 
+RPS6	gene symbol: RPS6. Functionality: cytoplasmic ribosomal protein Phenotype: regulation of cell growth and proliferation 
+CST3	gene symbol: CST3. Functionality: inhibitor of cysteine proteases Phenotype: protection against cysteine proteases, antimicrobial activity 
+FTH1	gene symbol: FTH1. Functionality: fth1 is involved in dna repair and transcriptional regulation Phenotype: fth1 mutations associated with breast cancer 
+RPS4X	gene symbol: RPS4X. Functionality: encodes ribosomal protein s4, a component of the 40s subunit of cytoplasmic ribosomes Phenotype: plays a role in protein synthesis and may be associated with turner syndrome 
+SSR4	gene symbol: SSR4. Functionality: translocon-associated protein complex Phenotype: breast cancer 
+RPL30	gene symbol: RPL30. Functionality: ribosomal protein Phenotype: breast cancer 
+ERBB2	gene symbol: ERBB2. Functionality: receptor tyrosine kinase Phenotype: breast cancer 
+APOE	gene symbol: APOE. Functionality: triglyceride metabolism Phenotype: breast cancer susceptibility 
+AZGP1	gene symbol: AZGP1. Functionality: cell adhesion and taste detection Phenotype: breast cancer 
+RPL3	gene symbol: RPL3. Functionality: ribosomal protein l3 Phenotype: component of 60s subunit of ribosome, involved in protein synthesis 
+COX6C	gene symbol: COX6C. Functionality: cytochrome c oxidase enzyme Phenotype: breast cancer up-regulation 
+HLA-C	gene symbol: HLA-C. Functionality: presents peptides derived from endoplasmic reticulum lumen to t-cells Phenotype: nearly all cells express this gene 
+FAU	gene symbol: FAU. Functionality: encodes a fusion protein consisting of ubiquitin-like protein fubi and ribosomal protein s30 Phenotype: fubi is a member of the ubiquitin family, and ribosomal protein s30 belongs to the s30e family of ribosomal proteins. 
+RPS9	gene symbol: RPS9. Functionality: encodes a ribosomal protein Phenotype: involved in protein synthesis 
+EEF2	gene symbol: EEF2. Functionality: translation elongation factor Phenotype: breast cancer 
+B2M	gene symbol: B2M. Functionality: encodes antimicrobial protein Phenotype: hypercatabolic hypoproteinemia 
+RPS5	gene symbol: RPS5. Functionality: encodes ribosomal protein Phenotype: involved in protein synthesis 
+RPL12	gene symbol: RPL12. Functionality: ribosomal protein Phenotype: breast cancer 
+ACTG1	gene symbol: ACTG1. Functionality: actin filament subunit Phenotype: mutations associated with dfna20/26 and baraitser-winter syndrome, hearing loss and cytoskeleton organization 
+RPS27A	gene symbol: RPS27A. Functionality: ubiquitin fusion protein Phenotype: breast cancer 
+RPL37	gene symbol: RPL37. Functionality: ribosomal protein Phenotype: breast cancer 
+RPL23	gene symbol: RPL23. Functionality: ribosomal protein Phenotype: breast cancer 
+HLA-A	gene symbol: HLA-A. Functionality: presents peptides derived from endoplasmic reticulum lumen for recognition by cytotoxic t cells Phenotype: expressed in nearly all cells, plays a central role in immune system 
+RPL31	gene symbol: RPL31. Functionality: encodes a ribosomal protein Phenotype: involved in protein synthesis 
+RPL29	gene symbol: RPL29. Functionality: encodes cytoplasmic ribosomal protein Phenotype: directly binds heparin on cell surface 
+RPL7A	gene symbol: RPL7A. Functionality: encodes a ribosomal protein Phenotype: plays a role in protein synthesis and ribosome function 
+IFI27	gene symbol: IFI27. Functionality: transcription factor binding Phenotype: breast cancer 
+PABPC1	gene symbol: PABPC1. Functionality: poly(a) binding protein Phenotype: regulates translation initiation and mrna decay 
+CD74	gene symbol: CD74. Functionality: antigen presentation regulator Phenotype: breast cancer susceptibility 
+BEST1	gene symbol: BEST1. Functionality: calcium-activated chloride channel Phenotype: juvenile-onset vitelliform macular dystrophy (vmd2), adult-onset vitelliform macular dystrophy (avmd), retinopathies 
+RPL32	gene symbol: RPL32. Functionality: ribosomal protein l32e Phenotype: component of 60s ribosomal subunit, involved in protein synthesis 
+FASN	gene symbol: FASN. Functionality: catalyzes palmitate synthesis Phenotype: long-chain saturated fatty acid synthesis 
+S100A9	gene symbol: S100A9. Functionality: calcium-binding protein involved in cellular processes Phenotype: associated with cystic fibrosis and breast cancer 
+GPX4	gene symbol: GPX4. Functionality: catalyzes the reduction of hydrogen peroxide, organic hydroperoxides and lipid hydroperoxides Phenotype: protects cells against oxidative damage, required for normal sperm development, associated with sedaghatian type of spondylometaphyseal dysplasia (smds) 
+RPL15	gene symbol: RPL15. Functionality: ribosomal protein Phenotype: breast cancer 
+RPL27	gene symbol: RPL27. Functionality: ribosomal protein Phenotype: breast cancer 
+MZT2B	gene symbol: MZT2B. Functionality: plays crucial role in regulation of microtubule dynamics and stability Phenotype: associated with breast cancer progression and poor prognosis 
+RPL23A	gene symbol: RPL23A. Functionality: ribosomal protein Phenotype: breast cancer 
+HSPB1	gene symbol: HSPB1. Functionality: molecular chaperone Phenotype: breast cancer progression 
+MALAT1	gene symbol: MALAT1. Functionality: long non-coding rna precursor transcript Phenotype: breast cancer proliferation and metastasis 
+RPS24	gene symbol: RPS24. Functionality: encodes ribosomal protein Phenotype: involved in protein synthesis 
+COL1A1	gene symbol: COL1A1. Functionality: encodes the pro-alpha1 chains of type i collagen Phenotype: osteogenesis imperfecta types i-iv, ehlers-danlos syndrome type viia, ehlers-danlos syndrome classical type, caffey disease, idiopathic osteoporosis, dermatofibrosarcoma protuberans 
+C4B	gene symbol: C4B. Functionality: classical activation pathway Phenotype: inflammation, local 
+KRT18	gene symbol: KRT18. Functionality: keratin 18 filament Phenotype: breast cancer 
+CFL1	gene symbol: CFL1. Functionality: polymerize and depolymerize f-actin and g-actin Phenotype: involved in actin cytoskeleton reorganization, translocation of actin-cofilin complex from cytoplasm to nucleus 
+CD81	gene symbol: CD81. Functionality: transmembrane 4 superfamily protein Phenotype: cell surface glycoprotein involved in muscle cell fusion and signal transduction 
+ALDOA	gene symbol: ALDOA. Functionality: glycolytic enzyme Phenotype: breast cancer progression 
+RPL35A	gene symbol: RPL35A. Functionality: ribosomal protein Phenotype: breast cancer 
+SYNGR2	gene symbol: SYNGR2. Functionality: regulates membrane traffic Phenotype: breast cancer 
+PPP1CA	gene symbol: PPP1CA. Functionality: protein phosphatase 1 catalytic subunit alpha Phenotype: regulation of cellular processes, including cell division, glycogen metabolism, muscle contractility, protein synthesis, and hiv-1 viral transcription 
+HLA-E	gene symbol: HLA-E. Functionality: hla-e is a class i molecule involved in peptide-mediated antigen presentation Phenotype: breast cancer 
+TAGLN	gene symbol: TAGLN. Functionality: shape change and transformation sensitive actin-binding protein Phenotype: viable and fertile but vascular smooth muscle cells exhibit alterations in the distribution of actin filament and changes in cytoskeletal organization 
+RPL9	gene symbol: RPL9. Functionality: ribosomal protein l9 Phenotype: involved in protein synthesis 
+CD63	gene symbol: CD63. Functionality: transmembrane protein, signal transduction Phenotype: breast cancer progression 
+RPS3A	gene symbol: RPS3A. Functionality: encodes a ribosomal protein Phenotype: plays a crucial role in protein synthesis 
+LGALS3BP	gene symbol: LGALS3BP. Functionality: modulates cell-cell and cell-matrix interactions Phenotype: elevated in cancer and hiv infection, implicated in immune response 
+IGFBP2	gene symbol: IGFBP2. Functionality: igf-i and ii binding protein Phenotype: tumor growth promotion 
+BST2	gene symbol: BST2. Functionality: b-cell growth and development Phenotype: bone marrow stromal cells involved in b-cell growth and development 
+TPT1	gene symbol: TPT1. Functionality: regulator of cellular growth and proliferation Phenotype: involved in carcinogenesis 
+EDF1	gene symbol: EDF1. Functionality: regulates endothelial cell differentiation, lipid metabolism, and hormone-induced cardiomyocyte hypertrophy Phenotype: breast cancer 
+RPS25	gene symbol: RPS25. Functionality: ribosomal protein Phenotype: breast cancer 
+ATP6V0B	gene symbol: ATP6V0B. Functionality: vacuolar atpase (v-atpase) subunit Phenotype: acidification of eukaryotic intracellular organelles 
+TAPBP	gene symbol: TAPBP. Functionality: mediates interaction between mhc class i molecules and tap Phenotype: essential for optimal peptide loading on mhc class i molecule 
+GRINA	gene symbol: GRINA. Functionality: calcium channel activity enabler Phenotype: apoptotic signaling pathway regulator 
+XBP1	gene symbol: XBP1. Functionality: transcription factor Phenotype: regulates mhc class ii genes by binding to a promoter element referred to as an x box 
+S100A11	gene symbol: S100A11. Functionality: calcium binding protein Phenotype: breast cancer 
+NBEAL1	gene symbol: NBEAL1. Functionality: protein kinase binding activity Phenotype: breast cancer 
+AEBP1	gene symbol: AEBP1. Functionality: transcriptional repressor Phenotype: adipogenesis, smooth muscle cell differentiation, wound healing, abdominal wall development, glioblastoma 
+CCND1	gene symbol: CCND1. Functionality: regulates g1/s transition of cell cycle Phenotype: increased risk of breast cancer 
+OAZ1	gene symbol: OAZ1. Functionality: regulates intracellular polyamine levels Phenotype: breast cancer 
+RPL14	gene symbol: RPL14. Functionality: ribosomal protein Phenotype: breast cancer 
+TAGLN2	gene symbol: TAGLN2. Functionality: tumor suppressor Phenotype: breast cancer 
+FN1	gene symbol: FN1. Functionality: encodes fibronectin, a glycoprotein involved in cell adhesion and migration Phenotype: breast cancer 
+PPDPF	gene symbol: PPDPF. Functionality: mitochondrial gene Phenotype: breast cancer 
+BCAP31	gene symbol: BCAP31. Functionality: transmembrane protein involved in endoplasmic reticulum to golgi transport and caspase 8-mediated apoptosis Phenotype: related to breast cancer 
+IFITM3	gene symbol: IFITM3. Functionality: restricts cellular entry by diverse viral pathogens Phenotype: antiviral 
+PRDX1	gene symbol: PRDX1. Functionality: antioxidant enzyme Phenotype: breast cancer 
+BGN	gene symbol: BGN. Functionality: encodes a member of the small leucine-rich proteoglycan (slrp) family of proteins Phenotype: plays a role in bone growth, muscle development and regeneration, and collagen fibril assembly in multiple tissues, regulates inflammation and innate immunity, contributes to atherosclerosis and aortic valve stenosis in human patients 
+GNAS	gene symbol: GNAS. Functionality: encodes a stimulatory g-protein alpha subunit Phenotype: breast cancer 
+PTMA	gene symbol: PTMA. Functionality: dna-binding transcription factor binding activity and histone binding activity Phenotype: negative regulation of apoptotic process 
+UBC	gene symbol: UBC. Functionality: ubiquitin precursor Phenotype: regulation of protein degradation, dna repair, cell cycle regulation, kinase modification, endocytosis 
+MZT2A	gene symbol: MZT2A. Functionality: centrosome-localized protein involved in mitotic spindle formation and chromosome segregation. Phenotype: breast cancer susceptibility gene 
+SLC25A6	gene symbol: SLC25A6. Functionality: mitochondrial carrier Phenotype: breast cancer 
+RPS20	gene symbol: RPS20. Functionality: ribosomal protein Phenotype: breast cancer 
+HSP90AB1	gene symbol: HSP90AB1. Functionality: heat shock protein Phenotype: gastric apoptosis and inflammation 
+RPS10	gene symbol: RPS10. Functionality: encodes a ribosomal protein Phenotype: involved in protein synthesis 
+MYL6	gene symbol: MYL6. Functionality: myosin alkali light chain Phenotype: smooth muscle and non-muscle tissue expression 
+CLDN3	gene symbol: CLDN3. Functionality: tight junction component Phenotype: breast cancer associated 
+ATP6AP1	gene symbol: ATP6AP1. Functionality: v-atpase mediated acidification of eukaryotic intracellular organelles Phenotype: intracellular organelle acidification, protein sorting, zymogen activation, receptor-mediated endocytosis, and early development 
+PRDX2	gene symbol: PRDX2. Functionality: antioxidant enzyme Phenotype: protects against oxidative stress 
+RPL24	gene symbol: RPL24. Functionality: ribosomal protein Phenotype: breast cancer 
+GNB2	gene symbol: GNB2. Functionality: regulator of alpha subunits and signal transduction receptors Phenotype: breast cancer 
+RPL34	gene symbol: RPL34. Functionality: ribosomal protein Phenotype: breast cancer 
+RPL4	gene symbol: RPL4. Functionality: ribosomal protein l4 Phenotype: involved in protein synthesis and ribosome biogenesis 
+LMNA	gene symbol: LMNA. Functionality: nuclear lamina component Phenotype: breast cancer susceptibility 
+NDUFA13	gene symbol: NDUFA13. Functionality: mitochondrial membrane respiratory chain nadh dehydrogenase subunit Phenotype: tumor suppressor 
+HLA-DRA	gene symbol: HLA-DRA. Functionality: presents peptides derived from extracellular proteins to t cells Phenotype: breast cancer susceptibility 
+SNHG25	gene symbol: SNHG25. Functionality: transcriptional regulator Phenotype: breast cancer susceptibility 
+TIMP1	gene symbol: TIMP1. Functionality: inhibits mmps and promotes cell proliferation Phenotype: breast cancer 
+H1-10	gene symbol: H1-10. Functionality: replication-independent histone Phenotype: nucleosome structure and chromatin compaction 
+RPS23	gene symbol: RPS23. Functionality: ribosomal protein Phenotype: breast cancer 
+COX8A	gene symbol: COX8A. Functionality: terminal enzyme of the respiratory chain Phenotype: mitochondrial electron transfer protein 
+KRT8	gene symbol: KRT8. Functionality: forms intermediate filaments in epithelial cells Phenotype: maintains cellular structural integrity, signal transduction, cellular differentiation 
+LY6E	gene symbol: LY6E. Functionality: glycosylphosphatidyl-inositol (gpi)-anchored cell surface protein Phenotype: involved in t cell physiology, oncogenesis and immunological regulation, modulation of viral infection by coronaviruses, sars-cov, mers-cov and sars-cov-2 
+ENO1	gene symbol: ENO1. Functionality: glycolytic enzyme, structural lens protein, tumor suppressor Phenotype: breast cancer, hashimoto encephalopathy 
+GRN	gene symbol: GRN. Functionality: regulates cell growth Phenotype: breast cancer 
+PTPRF	gene symbol: PTPRF. Functionality: regulates cell growth, differentiation, mitotic cycle and oncogenic transformation Phenotype: increased expression in insulin-responsive tissue of obese, insulin-resistant individuals, may contribute to the pathogenesis of insulin resistance 
+RPL7	gene symbol: RPL7. Functionality: ribosomal protein Phenotype: autoantigen in systemic autoimmune diseases 
+UBB	gene symbol: UBB. Functionality: encodes ubiquitin, a protein involved in protein degradation and various cellular processes Phenotype: abnormal ubiquitin expression linked to alzheimer's disease and down syndrome 
+BSG	gene symbol: BSG. Functionality: plasma membrane protein involved in spermatogenesis, embryo implantation, neural network formation, and tumor progression Phenotype: ubiquitously expressed in various tissues 
+ELOB	gene symbol: ELOB. Functionality: transcription elongation regulator Phenotype: breast cancer 
+COX6B1	gene symbol: COX6B1. Functionality: cytochrome c oxidase (cox) subunit vib Phenotype: severe infantile encephalomyopathy 
+TMSB4X	gene symbol: TMSB4X. Functionality: actin sequestering protein involved in cell proliferation, migration, and differentiation Phenotype: breast cancer 
+C1QA	gene symbol: C1QA. Functionality: complement component c1q a chain Phenotype: breast cancer associated gene 
+PRSS8	gene symbol: PRSS8. Functionality: encodes a protease that mediates proteolytic activation of the epithelial sodium channel Phenotype: breast cancer 
+RPL5	gene symbol: RPL5. Functionality: rna polymerase i transcripts Phenotype: breast cancer risk 
+UQCR11	gene symbol: UQCR11. Functionality: mitochondrial respiratory chain component Phenotype: breast cancer 
+RPS7	gene symbol: RPS7. Functionality: ribosomal protein Phenotype: breast cancer 
+A2M	gene symbol: A2M. Functionality: protease inhibitor and cytokine transporter Phenotype: alpha-2-macroglobulin deficiency, alzheimer's disease 
+RPS15A	gene symbol: RPS15A. Functionality: ribosomal protein Phenotype: breast cancer 
+VIM	gene symbol: VIM. Functionality: intermediate filament protein Phenotype: maintains cell shape, integrity of cytoplasm, and cytoskeletal interactions; involved in neuritogenesis, cholesterol transport, and cell attachment, migration, and signaling. 
+S100A6	gene symbol: S100A6. Functionality: calcium-binding protein involved in cellular processes such as cell cycle progression and differentiation Phenotype: involved in the regulation of ca2+-dependent insulin release, prolactin secretion, and exocytosis. chromosomal rearrangements and altered expression of this gene have been implicated in melanoma. 
+NDUFA11	gene symbol: NDUFA11. Functionality: mitochondrial complex i subunit Phenotype: severe mitochondrial complex i deficiency 
+PSMD3	gene symbol: PSMD3. Functionality: non-atpase subunit of the 19s regulator lid Phenotype: associated with neutrophil count 
+EVL	gene symbol: EVL. Functionality: enables sh3 domain binding and profilin binding, regulates epithelial cell migration, ruffle assembly, and stress fiber assembly Phenotype: breast cancer 
+APOC1	gene symbol: APOC1. Functionality: encodes apolipoprotein c1 Phenotype: involved in hdl and vldl metabolism, inhibits cholesteryl ester transfer protein 
+H3-3B	gene symbol: H3-3B. Functionality: replication-independent histone h3 Phenotype: nucleosome structure and chromatin compaction 
+ATP5F1E	gene symbol: ATP5F1E. Functionality: subunit of mitochondrial atp synthase Phenotype: mitochondrial atp synthesis 
+PLXNB2	gene symbol: PLXNB2. Functionality: axon guidance and cell migration Phenotype: breast cancer 
+MYL9	gene symbol: MYL9. Functionality: regulates muscle contraction by modulating myosin atpase activity Phenotype: breast cancer 
+TUBA1B	gene symbol: TUBA1B. Functionality: gtp binding, gtpase activity, ubiquitin protein ligase binding Phenotype: microtubule cytoskeleton organization, microtubule localization 
+CTSB	gene symbol: CTSB. Functionality: lysosomal cysteine protease Phenotype: breast cancer, alzheimer's disease, esophageal adenocarcinoma, sars-cov-2 entry 
+ISG15	gene symbol: ISG15. Functionality: ubiquitin-like protein conjugator Phenotype: breast cancer 
+FLNA	gene symbol: FLNA. Functionality: actin-binding protein involved in cytoskeleton remodeling Phenotype: breast cancer, periventricular nodular heterotopias (pvnh1, pvnh4), otopalatodigital syndromes (opd1, opd2), frontometaphyseal dysplasia (fmd), melnick-needles syndrome (mns), x-linked congenital idiopathic intestinal pseudoobstruction (ciipx) 
+RPS13	gene symbol: RPS13. Functionality: ribosomal protein Phenotype: breast cancer 
+NDUFB9	gene symbol: NDUFB9. Functionality: encodes a subunit of mitochondrial complex i Phenotype: dehydrogenates nadh and shuttles electrons to coenzyme q 
+EIF4A1	gene symbol: EIF4A1. Functionality: translation initiation factor Phenotype: breast cancer 
+POLR2L	gene symbol: POLR2L. Functionality: rna polymerase ii subunit Phenotype: breast cancer 
+CYBA	gene symbol: CYBA. Functionality: encodes light chain of cytochrome b Phenotype: important for microbicidal activity of phagocytes in chronic granulomatous disease 
+CRIP2	gene symbol: CRIP2. Functionality: transcription factor Phenotype: breast cancer 
+EEF1D	gene symbol: EEF1D. Functionality: elongation factor-1 complex subunit Phenotype: enhanced hiv-1 translation 
+ATP1A1	gene symbol: ATP1A1. Functionality: na+/k+ -atpase Phenotype: breast cancer 
+ELF3	gene symbol: ELF3. Functionality: enables dna-binding transcription activator activity Phenotype: inflammatory response, negative regulation of dna-templated transcription, positive regulation of transcription by rna polymerase ii 
+TUFM	gene symbol: TUFM. Functionality: protein translation in mitochondria Phenotype: combined oxidative phosphorylation deficiency, lactic acidosis, fatal encephalopathy 
+SH3BGRL3	gene symbol: SH3BGRL3. Functionality: cytoskeleton organization Phenotype: breast cancer 
+STARD10	gene symbol: STARD10. Functionality: lipid binding and transport Phenotype: breast cancer 
+C3	gene symbol: C3. Functionality: complement component c3 Phenotype: inflammation, antimicrobial activity 
+GUK1	gene symbol: GUK1. Functionality: phosphate transfer enzyme Phenotype: breast cancer 
+ZNF90	gene symbol: ZNF90. Functionality: transcription factor Phenotype: breast cancer 
+C12orf57	gene symbol: C12orf57. Functionality: corpus callosum development gene Phenotype: mutations associated with temtamy syndrome (temtys) 
+TLE5	gene symbol: TLE5. Functionality: dominant repressor of gene expression Phenotype: breast cancer 
+SEC61A1	gene symbol: SEC61A1. Functionality: insertion of secretory and membrane polypeptides into endoplasmic reticulum Phenotype: breast cancer 
+SDC1	gene symbol: SDC1. Functionality: transmembrane (type i) heparan sulfate proteoglycan Phenotype: cell binding, cell signaling, cytoskeletal organization 
+PLD3	gene symbol: PLD3. Functionality: phospholipase d enzyme Phenotype: alzheimer disease risk 
+SPDEF	gene symbol: SPDEF. Functionality: androgen-independent transactivator of prostate-specific antigen (psa) promoter Phenotype: breast cancer 
+ARHGDIA	gene symbol: ARHGDIA. Functionality: regulation of signaling through rho gtpases Phenotype: mutations in this gene have been found in individuals with nephrotic syndrome, type 8. 
+IFI6	gene symbol: IFI6. Functionality: interferon-induced protein involved in apoptosis regulation Phenotype: breast cancer susceptibility 
+LAPTM5	gene symbol: LAPTM5. Functionality: transmembrane receptor involved in lysosomal trafficking and hematopoiesis Phenotype: breast cancer 
+RPL41	gene symbol: RPL41. Functionality: enables mrna 3'-utr binding activity and mrna 5'-utr binding activity Phenotype: breast cancer 
+CLU	gene symbol: CLU. Functionality: chaperone protein involved in cell death, tumor progression, and neurodegenerative disorders Phenotype: breast cancer 
+GNAI2	gene symbol: GNAI2. Functionality: g protein alpha subunit Phenotype: hormonal regulation of adenylate cyclase 
+PFDN5	gene symbol: PFDN5. Functionality: chaperone protein Phenotype: breast cancer 
+RPL39	gene symbol: RPL39. Functionality: ribosomal protein Phenotype: breast cancer 
+SSR2	gene symbol: SSR2. Functionality: er membrane receptor for protein translocation Phenotype: breast cancer 
+COX4I1	gene symbol: COX4I1. Functionality: nuclear-encoded subunit iv isoform 1 of the mitochondrial respiratory chain enzyme Phenotype: contributes to proton electrochemical gradient across the inner mitochondrial membrane 
+RHOC	gene symbol: RHOC. Functionality: regulates actin cytoskeleton and cell motility Phenotype: breast cancer cell proliferation and metastasis 
+JUP	gene symbol: JUP. Functionality: encodes major cytoplasmic protein Phenotype: submembranous plaques of both desmosomes and intermediate junctions 
+EIF4G1	gene symbol: EIF4G1. Functionality: eif4f complex component Phenotype: breast cancer related 
+FXYD3	gene symbol: FXYD3. Functionality: regulator of na+/k+ atpases Phenotype: breast cancer 
+TSPO	gene symbol: TSPO. Functionality: mitochondrial cholesterol transport protein Phenotype: breast cancer 
+UQCRQ	gene symbol: UQCRQ. Functionality: ubiquinone-binding protein Phenotype: breast cancer 
+COL1A2	gene symbol: COL1A2. Functionality: encodes pro-alpha2 chain of type i collagen Phenotype: osteogenesis imperfecta types i-iv, ehlers-danlos syndrome type viib, recessive ehlers-danlos syndrome classical type, idiopathic osteoporosis, atypical marfan syndrome 
+RPL10A	gene symbol: RPL10A. Functionality: encodes a ribosomal protein Phenotype: downregulated in thymus by cyclosporin-a (csa) 
+S100A8	gene symbol: S100A8. Functionality: calcium-binding protein involved in cell cycle regulation and differentiation Phenotype: breast cancer associated protein 
+SELENOW	gene symbol: SELENOW. Functionality: encodes a selenoprotein involved in muscle growth and differentiation, and in the protection of neurons from oxidative stress during neuronal development Phenotype: selenoprotein involved in muscle growth and differentiation, and in the protection of neurons from oxidative stress during neuronal development 
+TPI1	gene symbol: TPI1. Functionality: glycolysis and gluconeogenesis enzyme Phenotype: triosephosphate isomerase deficiency 
+ATP5MC2	gene symbol: ATP5MC2. Functionality: subunit of mitochondrial atp synthase Phenotype: involved in atp synthesis 
+PTMS	gene symbol: PTMS. Functionality: histone binding activity Phenotype: negative regulation of apoptotic process, positive regulation of transcription by rna polymerase ii 
+IGFBP5	gene symbol: IGFBP5. Functionality: enables insulin-like growth factor i binding activity and receptor ligand activity Phenotype: involved in cellular response to camp, regulation of smooth muscle cell migration, and regulation of smooth muscle cell proliferation. 
+LGALS1	gene symbol: LGALS1. Functionality: negative growth factor Phenotype: breast cancer 
+SPINT2	gene symbol: SPINT2. Functionality: inhibits hgf activator Phenotype:  prevents the formation of active hepatocyte growth factor 
+RPSA	gene symbol: RPSA. Functionality: laminin receptor 1 Phenotype: increased invasiveness and metastasis in cancer cells 
+GSTP1	gene symbol: GSTP1. Functionality: detoxification Phenotype: xenobiotic metabolism and cancer susceptibility 
+CHCHD2	gene symbol: CHCHD2. Functionality: regulates mitochondria-mediated apoptosis Phenotype: breast cancer 
+EIF5A	gene symbol: EIF5A. Functionality: enables u6 snrna binding activity Phenotype: colorectal cancer biomarker 
+COX5B	gene symbol: COX5B. Functionality: nuclear-encoded subunit of cox complex Phenotype: plays a role in the regulation and assembly of the mitochondrial respiratory chain enzyme 
+ATG10	gene symbol: ATG10. Functionality: e2-like enzyme involved in 2 ubiquitin-like modifications essential for autophagosome formation Phenotype: breast cancer 
+RPL6	gene symbol: RPL6. Functionality: ribosomal protein Phenotype: breast cancer 
+EEF1A1	gene symbol: EEF1A1. Functionality: elongation factor-1 complex isoform Phenotype: autoantigen in felty syndrome 
+CAPNS1	gene symbol: CAPNS1. Functionality: calpain small subunit Phenotype: influences various cellular functions including apoptosis, proliferation, migration, adhesion, and autophagy. 
+LMAN2	gene symbol: LMAN2. Functionality: glycoprotein sorting and trafficking Phenotype: breast cancer 
+UBE2M	gene symbol: UBE2M. Functionality: ubiquitin-conjugating enzyme Phenotype: breast cancer 
+SPARC	gene symbol: SPARC. Functionality: regulation of collagen synthesis and matrix formation Phenotype: breast cancer tumor suppression and metastasis 
+EIF3C	gene symbol: EIF3C. Functionality: translation initiation factor Phenotype: breast cancer 
+GAS5	gene symbol: GAS5. Functionality: regulation of transcriptional activity of glucocorticoid receptor Phenotype: breast cancer 
+TUBB	gene symbol: TUBB. Functionality: forms microtubules Phenotype: cortical dysplasia, complex with other brain malformations 
+ACTN4	gene symbol: ACTN4. Functionality: actin-binding protein involved in cytoskeletal organization and metastatic processes Phenotype: breast cancer metastasis 
+IGFBP4	gene symbol: IGFBP4. Functionality: prolongs igf half-life and alters igf interaction with cell surface receptors Phenotype: breast cancer 

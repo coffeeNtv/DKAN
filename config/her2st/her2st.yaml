@@ -1,0 +1,65 @@
+GENERAL:
+  seed: 2021
+  log_path: ./logs
+
+TRAINING:
+  num_k: 8
+  batch_size: 128
+  loss: MSE
+  optimizer: adam
+  learning_rate: 1.0e-4
+  num_epochs: 200
+  early_stopping:
+    monitor: R
+    patience: 20
+    mode: max
+
+MODEL:
+  name: DKAN
+  num_genes: 250
+
+  target_encoder_name: resnet18    # resnet18 or resnet50
+  emb_dim_target: 512
+  emb_dim: 1024
+  emb_dim_text: 1024
+  
+  depth1: 1
+  depth2: 5
+  depth3: 4
+  depth_img: 4
+  depth_exp: 3
+  depth_text: 3
+  num_heads1: 4
+  num_heads2: 8
+  num_heads3: 4
+  num_heads_img: 4
+  num_heads_exp: 4
+  num_heads_text: 4
+  mlp_ratio1: 4
+  mlp_ratio2: 4
+  mlp_ratio3: 4
+  mlp_ratio_img: 4
+  mlp_ratio_exp: 4
+  mlp_ratio_text: 4
+  dropout1: 0.4
+  dropout2: 0.3
+  dropout3: 0.3
+  dropout_img: 0.3
+  dropout_exp: 0.3
+  dropout_text: 0.3
+  dropout_linear_exp: 0.3
+  temperature: 0.1
+  kernel_size: 3
+  learning_rate: 0.0001
+
+DATASET:
+  data_dir: /home/wzhang/data/st/data_uni
+  type: her2st
+  num_neighbors: 5
+  emb_dim_text: 1024
+  text_model: biobert
+  t_global_dir: "gt_features_224"
+  n_global_dir: "gn_features"
+  neighbor_dir: "n_features"
+  radius: 224
+  use_pyvips: False

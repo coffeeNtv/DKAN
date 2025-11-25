@@ -1,0 +1,10 @@
+{
+    "gene_name": "her2st", 
+    "gene_file": "genes_her2st.npy", 
+    "gene_summary_path": "./her2st_ncbi/", 
+    "gene_database": "ncbi", 
+    "gene_description_filename": "genes_her2st_gpt4o_ncbi.txt", 
+    "LLM_type": "gpt-4o", 
+    "gene_encoding_type": "biobert", 
+    "gene_describe_encoding_file": "genes_her2st_gpt4o_ncbi_biobert.pt"
+    }

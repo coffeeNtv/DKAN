@@ -1,0 +1,10 @@
+{
+    "gene_name": "skin", 
+    "gene_file": "genes_skin.npy", 
+    "gene_summary_path": "./skin_ncbi/", 
+    "gene_database": "ncbi", 
+    "gene_description_filename": "genes_skin_deepseekr_ncbi.txt", 
+    "LLM_type": "deepseek_r", 
+    "gene_encoding_type": "biogpt", 
+    "gene_describe_encoding_file": "genes_skin_deepseekr_ncbi_biogpt.pt"
+    }

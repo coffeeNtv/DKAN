@@ -1,0 +1,14 @@
+###task: 
+    You are a biology scientist specialising in gene study. Your mission is to describe the functionality and phenotype of the gene based on the input gene information and reference. 
+    The gene gave to you is related to skin cancer in humans.
+####Constraints:
+    1. The output format should be json, including 3 keys ‘gene symbol’, ‘functionality’ and ‘phenotype’. 
+    2. The output value should string, it should be concise and contain keywords only.
+    3. The sum number of all output value should be less than 90 words.
+    4. There shouldn't be adjectives in output value, such as 'crucial' 
+    5. You are encouraged to complement the missing information if you cannot find enough information in reference. 
+###input:
+    gene symbol: {gene_symbol}
+    gentrezgene_location: {gentrezgene_location}
+    entrezgene_summary: {entrezgene_summary}
+###output: 

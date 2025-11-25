@@ -1,0 +1,250 @@
+S100A8	gene symbol: S100A8. Functionality: calcium-binding protein involved in cell cycle progression and differentiation Phenotype: altered expression associated with cystic fibrosis 
+KRT6A	gene symbol: KRT6A. Functionality: encodes a type ii cytokeratin protein Phenotype: involved in skin cancer development 
+KRT14	gene symbol: KRT14. Functionality: keratin gene Phenotype: plays a crucial role in maintaining the integrity of the skin epithelial barrier 
+S100A9	gene symbol: S100A9. Functionality: calcium-binding protein involved in cellular processes such as cell cycle progression and differentiation Phenotype: s100a9 gene mutations associated with skin cancer 
+KRT5	gene symbol: KRT5. Functionality: type ii cytokeratin protein Phenotype: basal layer of epidermis expression 
+KRT6B	gene symbol: KRT6B. Functionality: type ii cytokeratin Phenotype: skin cancer, pachyonychia congenita 
+KRT16	gene symbol: KRT16. Functionality: keratin protein Phenotype: structural integrity of epithelial cells 
+KRT6C	gene symbol: KRT6C. Functionality: encodes a basic protein, member of the keratin gene family, involved in cell adhesion and differentiation Phenotype: abnormalities in skin cell differentiation and adhesion can lead to skin cancer 
+KRT17	gene symbol: KRT17. Functionality: keratin filament chain Phenotype: pachyonychia congenita, steatocystoma multiplex 
+MT-CO3	gene symbol: MT-CO3. Functionality: cytochrome-c oxidase activity Phenotype: skin cancer 
+S100A7	gene symbol: S100A7. Functionality: s100 protein involved in cell cycle progression and differentiation Phenotype: overexpression in hyperproliferative skin diseases, antimicrobial and immunomodulatory activities 
+MT-CO2	gene symbol: MT-CO2. Functionality: cytochrome-c oxidase activity Phenotype: skin cancer, huntington's disease, stomach cancer 
+SFN	gene symbol: SFN. Functionality: regulator of mitotic translation Phenotype: protection against dna errors during mitosis 
+S100A2	gene symbol: S100A2. Functionality: calcium-binding protein involved in cell cycle regulation and tumor suppressor Phenotype: skin cancer susceptibility 
+MT-CO1	gene symbol: MT-CO1. Functionality: cytochrome-c oxidase activity Phenotype: skin cancer 
+ACTB	gene symbol: ACTB. Functionality: actin protein, cytoskeleton Phenotype: skin cancer, baraitser-winter syndrome 1 
+PERP	gene symbol: PERP. Functionality: activation of cysteine-type endopeptidase activity and positive regulation of neutrophil chemotaxis Phenotype: erythrokeratodermia variabilis and mutilating palmoplantar keratoderma with periorificial keratotic plaques 
+SPRR1B	gene symbol: SPRR1B. Functionality: keratinocyte envelope protein Phenotype: skin cancer 
+KRT10	gene symbol: KRT10. Functionality: keratin protein Phenotype: skin cancer 
+KRT1	gene symbol: KRT1. Functionality: type ii cytokeratin Phenotype: spinous and granular layers of epidermis 
+EEF1A1	gene symbol: EEF1A1. Functionality: elongation factor-1 complex alpha subunit Phenotype: skin cancer 
+RPLP1	gene symbol: RPLP1. Functionality: encodes a ribosomal phosphoprotein that is a component of the 60s subunit of the ribosome Phenotype: plays an important role in the elongation step of protein synthesis 
+LGALS7B	gene symbol: LGALS7B. Functionality: modulates cell-cell and cell-matrix interactions in keratinocytes Phenotype: stratified squamous epithelium 
+LGALS7	gene symbol: LGALS7. Functionality: modulates cell-cell and cell-matrix interactions Phenotype: skin cancer 
+COL1A1	gene symbol: COL1A1. Functionality: encodes pro-alpha1 chains of type i collagen Phenotype: fibril-forming collagen, bone, cornea, dermis, tendon, osteogenesis imperfecta types i-iv, ehlers-danlos syndrome type viia, ehlers-danlos syndrome classical type, caffey disease, idiopathic osteoporosis, dermatofibrosarcoma protuberans 
+FABP5	gene symbol: FABP5. Functionality: fatty acid binding protein Phenotype: skin cancer, psoriasis 
+RPS12	gene symbol: RPS12. Functionality: encodes a ribosomal protein Phenotype: increased expression in colorectal cancers compared to matched normal colonic mucosa 
+HLA-B	gene symbol: HLA-B. Functionality: presents peptides derived from endoplasmic reticulum lumen to immune cells Phenotype: class i molecule, plays central role in immune system 
+MT-ND4	gene symbol: MT-ND4. Functionality: enables nadh dehydrogenase (ubiquinone) activity Phenotype: involved in mitochondrial electron transport, nadh to ubiquinone and mitochondrial respiratory chain complex i assembly. implicated in leber hereditary optic neuropathy; parkinson's disease; macular degeneration; and schizophrenia. biomarker of alzheimer's disease. 
+RPLP2	gene symbol: RPLP2. Functionality: ribosomal phosphoprotein Phenotype: acidic ribosomal phosphoprotein involved in protein synthesis 
+ACTG1	gene symbol: ACTG1. Functionality: cytoplasmic actin involved in cytoskeleton and cell motility Phenotype: associated with dfna20/26 and baraitser-winter syndrome 
+GJB2	gene symbol: GJB2. Functionality: encodes a member of the gap junction protein family Phenotype: plays a crucial role in cell-to-cell communication and ion transfer, responsible for pre-lingual, recessive deafness 
+B2M	gene symbol: B2M. Functionality: encodes antimicrobial protein Phenotype: hypercatabolic hypoproteinemia 
+TPT1	gene symbol: TPT1. Functionality: regulator of cellular growth and proliferation Phenotype: involved in carcinogenesis and upregulated in some cancer cells 
+RPL13	gene symbol: RPL13. Functionality: encodes a ribosomal protein Phenotype: increased expression in benign breast lesions compared to breast carcinomas 
+MT-ATP6	gene symbol: MT-ATP6. Functionality: proton-transporting atp synthase activity Phenotype: skin cancer 
+RPS24	gene symbol: RPS24. Functionality: ribosomal protein Phenotype: diamond-blackfan anemia 
+PFN1	gene symbol: PFN1. Functionality: regulates actin dynamics Phenotype: skin cancer 
+KRTDAP	gene symbol: KRTDAP. Functionality: keratinocyte differentiation and maintenance of stratified epithelia Phenotype: increased risk of skin cancer 
+RPS6	gene symbol: RPS6. Functionality: encodes a cytoplasmic ribosomal protein Phenotype: contributes to the control of cell growth and proliferation 
+DMKN	gene symbol: DMKN. Functionality: inflammatory disease Phenotype: skin cancer 
+RPLP0	gene symbol: RPLP0. Functionality: encodes a ribosomal protein Phenotype: involved in protein synthesis 
+MT-ND3	gene symbol: MT-ND3. Functionality: enables nadh dehydrogenase (ubiquinone) activity Phenotype: involved in mitochondrial electron transport, nadh to ubiquinone. implicated in leber hereditary optic neuropathy; leigh disease; and parkinson's disease. 
+RPL37A	gene symbol: RPL37A. Functionality: encodes a ribosomal protein Phenotype: involved in protein synthesis 
+DSP	gene symbol: DSP. Functionality: anchors intermediate filaments to desmosomal plaques Phenotype: skin fragility-woolly hair syndrome 
+CXCL14	gene symbol: CXCL14. Functionality: secreted protein involved in immunoregulatory and inflammatory processes Phenotype: monocyte-derived macrophage homeostasis 
+RPS18	gene symbol: RPS18. Functionality: encodes a ribosomal protein Phenotype: involved in protein synthesis 
+RPS17	gene symbol: RPS17. Functionality: ribosomal protein Phenotype: involved in protein synthesis and diamond-blackfan anemia 4 
+RPS8	gene symbol: RPS8. Functionality: encodes a ribosomal protein Phenotype: increased expression in colorectal tumors and colon polyps 
+RPL13A	gene symbol: RPL13A. Functionality: component of 60s ribosomal subunit Phenotype: skin cancer 
+MT-CYB	gene symbol: MT-CYB. Functionality: metal ion binding and ubiquinol-cytochrome-c reductase activity Phenotype: ovarian carcinoma and urinary bladder cancer 
+RPL11	gene symbol: RPL11. Functionality: ribosomal protein l11 Phenotype: involved in protein synthesis and ribosome biogenesis 
+RPL27A	gene symbol: RPL27A. Functionality: encodes a ribosomal protein Phenotype: plays a role in protein synthesis 
+RPL28	gene symbol: RPL28. Functionality: encodes ribosomal protein Phenotype: involved in protein synthesis 
+MT-ND1	gene symbol: MT-ND1. Functionality: enables nadh dehydrogenase (ubiquinone) activity Phenotype: involved in mitochondrial electron transport, nadh to ubiquinone and mitochondrial respiratory chain complex i assembly. implicated in several diseases including melas syndrome, neurodegenerative disease, optic nerve disease, toxic shock syndrome, and type 2 diabetes mellitus. biomarker of alzheimer's disease, parkinson's disease, and multiple sclerosis. 
+RPS27	gene symbol: RPS27. Functionality: encodes a ribosomal protein Phenotype: mutations in this gene have been linked to skin cancer 
+RPL32	gene symbol: RPL32. Functionality: encodes a ribosomal protein Phenotype: component of the 60s subunit of the ribosome 
+CSTA	gene symbol: CSTA. Functionality: cysteine protease inhibitor Phenotype: plays a role in epidermal development and maintenance 
+RPL34	gene symbol: RPL34. Functionality: ribosomal protein l34e Phenotype: skin cancer 
+RPL31	gene symbol: RPL31. Functionality: encodes a ribosomal protein Phenotype: increased expression in familial adenomatous polyps 
+COL1A2	gene symbol: COL1A2. Functionality: encodes pro-alpha2 chain of type i collagen Phenotype: osteogenesis imperfecta types i-iv, ehlers-danlos syndrome type viib, recessive ehlers-danlos syndrome classical type, idiopathic osteoporosis, atypical marfan syndrome 
+RPL8	gene symbol: RPL8. Functionality: ribosomal protein l2p Phenotype: involved in protein synthesis and ribosome biogenesis 
+SBSN	gene symbol: SBSN. Functionality: modulates exosome-mediated protein transport Phenotype: increased risk of skin cancer 
+TMSB10	gene symbol: TMSB10. Functionality: actin monomer binding and cytoskeleton regulation Phenotype: skin cancer susceptibility 
+ENO1	gene symbol: ENO1. Functionality: glycolytic enzyme, structural lens protein, tumor suppressor Phenotype: skin cancer, hashimoto encephalopathy 
+RPS14	gene symbol: RPS14. Functionality: ribosomal protein Phenotype: skin cancer resistance 
+RPL36	gene symbol: RPL36. Functionality: ribosomal protein Phenotype: skin cancer 
+SPRR2A	gene symbol: SPRR2A. Functionality: lipid binding activity Phenotype: involved in antibacterial humoral response and defense response to gram-positive bacterium 
+RPL39	gene symbol: RPL39. Functionality: encodes a ribosomal protein Phenotype: plays a crucial role in protein synthesis 
+GSTP1	gene symbol: GSTP1. Functionality: detoxification Phenotype: skin cancer susceptibility 
+RPS27A	gene symbol: RPS27A. Functionality: encodes a fusion protein consisting of ubiquitin and ribosomal protein s27a Phenotype: implicated in protein degradation and ribosome function 
+JUP	gene symbol: JUP. Functionality: encodes major cytoplasmic protein Phenotype: submembranous plaques of both desmosomes and intermediate junctions 
+RPS19	gene symbol: RPS19. Functionality: encodes ribosomal protein Phenotype: related to skin cancer and diamond-blackfan anemia 
+RPL37	gene symbol: RPL37. Functionality: encodes a ribosomal protein Phenotype: involved in protein synthesis 
+RPL27	gene symbol: RPL27. Functionality: encodes a ribosomal protein Phenotype: involved in protein synthesis and may contribute to cancer development 
+RPL3	gene symbol: RPL3. Functionality: ribosomal protein l3 Phenotype: involved in protein synthesis 
+RPS29	gene symbol: RPS29. Functionality: encodes a ribosomal protein Phenotype: plays a role in protein synthesis and tumor suppressor activity 
+COL3A1	gene symbol: COL3A1. Functionality: collagen type iii Phenotype: skin cancer, ehlers-danlos syndrome type iv, aortic and arterial aneurysms 
+RPS11	gene symbol: RPS11. Functionality: ribosomal protein Phenotype: skin cancer 
+CSTB	gene symbol: CSTB. Functionality: intracellular thiol protease inhibitor Phenotype: protects against proteases leaking from lysosomes, responsible for primary defects in progressive myoclonic epilepsy (epm1) 
+RPL9	gene symbol: RPL9. Functionality: ribosomal protein l9 Phenotype: involved in protein synthesis and ribosome biogenesis 
+RACK1	gene symbol: RACK1. Functionality: enables several functions including cyclin binding activity; enzyme binding activity; and protein domain specific binding activity Phenotype: involved in regulation of protein metabolic process; regulation of signal transduction; and regulation of vesicle-mediated transport 
+ANXA2	gene symbol: ANXA2. Functionality: calcium-dependent phospholipid-binding protein Phenotype: bone resorption, osteoclast formation, cancer resistance 
+RPL7A	gene symbol: RPL7A. Functionality: encodes a ribosomal protein Phenotype: involved in protein synthesis, may play a role in cancer 
+RPL23	gene symbol: RPL23. Functionality: ribosomal protein Phenotype: skin cancer 
+RPL19	gene symbol: RPL19. Functionality: encodes ribosomal protein l19e Phenotype: involved in protein synthesis 
+S100A11	gene symbol: S100A11. Functionality: calcium binding protein involved in cell cycle progression and differentiation Phenotype: s100a11 is associated with skin cancer in humans 
+RPS2	gene symbol: RPS2. Functionality: ribosomal protein Phenotype: s5p family protein 
+RPS28	gene symbol: RPS28. Functionality: ribosomal protein Phenotype: involved in protein synthesis 
+EEF2	gene symbol: EEF2. Functionality: translation elongation factor Phenotype: skin cancer 
+ANXA1	gene symbol: ANXA1. Functionality: membrane-localized protein that binds phospholipids and inhibits phospholipase a2 Phenotype: skin cancer 
+CD74	gene symbol: CD74. Functionality: antigen presentation regulator Phenotype: skin cancer susceptibility 
+PABPC1	gene symbol: PABPC1. Functionality: poly(a) binding protein Phenotype: involved in mrna translation and decay 
+LDHA	gene symbol: LDHA. Functionality: encodes the a subunit of lactate dehydrogenase enzyme Phenotype: catalyzes the reversible conversion of pyruvate to lactate 
+RPS3	gene symbol: RPS3. Functionality: encodes a ribosomal protein involved in protein synthesis and dna repair Phenotype: increased expression in colon adenocarcinomas and adenomatous polyps compared to adjacent normal colonic mucosa 
+RPL35A	gene symbol: RPL35A. Functionality: encodes a ribosomal protein Phenotype: plays a crucial role in protein synthesis 
+DSC2	gene symbol: DSC2. Functionality: encodes desmocollin protein Phenotype: plays key role in cell adhesion and desmosome formation 
+AQP3	gene symbol: AQP3. Functionality: water channel protein Phenotype: basal lateral membranes of collecting duct cells in the kidney 
+RPS25	gene symbol: RPS25. Functionality: encodes a ribosomal protein Phenotype: involved in protein synthesis 
+IFI27	gene symbol: IFI27. Functionality: transcription factor binding activity, rna polymerase ii-specific dna binding Phenotype: skin cancer development and progression 
+CALML5	gene symbol: CALML5. Functionality: calcium binding protein expressed in epidermis Phenotype: skin cancer 
+YWHAZ	gene symbol: YWHAZ. Functionality: mediates signal transduction by binding to phosphoserine-containing proteins Phenotype: involved in regulating insulin sensitivity 
+RPL6	gene symbol: RPL6. Functionality: ribosomal protein Phenotype: skin cancer 
+TMSB4X	gene symbol: TMSB4X. Functionality: actin sequestering protein involved in cell proliferation, migration, and differentiation Phenotype: skin cancer 
+RPS23	gene symbol: RPS23. Functionality: ribosomal protein Phenotype: involved in protein synthesis 
+RPL12	gene symbol: RPL12. Functionality: ribosomal protein l11p Phenotype: component of 60s ribosomal subunit, essential for protein synthesis 
+S100A14	gene symbol: S100A14. Functionality: calcium binding protein Phenotype: tumor suppressor 
+RPS4X	gene symbol: RPS4X. Functionality: encodes ribosomal protein s4, a component of the 40s subunit of cytoplasmic ribosomes Phenotype: involved in protein synthesis and may play a role in the development of skin cancer 
+UBA52	gene symbol: UBA52. Functionality: ubiquitin protein synthesis and degradation Phenotype: involved in skin cancer development and progression 
+SLPI	gene symbol: SLPI. Functionality: protein inhibitor Phenotype: skin cancer protection 
+PKP1	gene symbol: PKP1. Functionality: arm-repeat and plakophilin protein involved in desmosome formation and cytoskeleton linking Phenotype: skin fragility and ectodermal dysplasia 
+RPL38	gene symbol: RPL38. Functionality: encodes a ribosomal protein Phenotype: involved in protein synthesis 
+HLA-A	gene symbol: HLA-A. Functionality: presents peptides derived from the endoplasmic reticulum lumen to t cells for recognition Phenotype: expressed in nearly all cells, plays a central role in the immune system 
+RPS13	gene symbol: RPS13. Functionality: encodes a ribosomal protein Phenotype: plays a crucial role in protein synthesis 
+LY6D	gene symbol: LY6D. Functionality: lymphocyte differentiation regulator Phenotype: skin cancer susceptibility 
+RPL24	gene symbol: RPL24. Functionality: encodes a ribosomal protein Phenotype: involved in protein synthesis 
+ATP1B3	gene symbol: ATP1B3. Functionality: na+/k+ and h+/k+ atpase beta chain protein Phenotype: regulates sodium-potassium pump activity, essential for osmoregulation and electrical excitability of nerve and muscle 
+MYL6	gene symbol: MYL6. Functionality: atpase cellular motor protein Phenotype: smooth muscle and non-muscle tissues 
+GJB6	gene symbol: GJB6. Functionality: forms gap junctions for ion and metabolite transport between cells Phenotype: plays a role in deafness and hidrotic ectodermal dysplasia 
+S100A6	gene symbol: S100A6. Functionality: calcium binding protein involved in cellular signaling and regulation Phenotype: associated with skin cancer, including melanoma 
+HSPB1	gene symbol: HSPB1. Functionality: heat shock protein Phenotype: promotes cancer cell proliferation and metastasis, protects cancer cells from apoptosis 
+RPL18	gene symbol: RPL18. Functionality: ribosomal protein Phenotype: skin cancer 
+MT-ND2	gene symbol: MT-ND2. Functionality: enables nadh dehydrogenase (ubiquinone) activity Phenotype: involved in mitochondrial electron transport, nadh to ubiquinone and mitochondrial respiratory chain complex i assembly. implicated in leber hereditary optic neuropathy; multiple sclerosis; myocardial infarction; neurodegenerative disease (multiple); and urinary bladder cancer. 
+SDC1	gene symbol: SDC1. Functionality: transmembrane (type i) heparan sulfate proteoglycan and cell signaling molecule Phenotype: altered expression in several tumor types, including skin cancer 
+IVL	gene symbol: IVL. Functionality: keratinocyte crosslinked envelope component Phenotype: skin cancer 
+FTL	gene symbol: FTL. Functionality: encodes light subunit of ferritin protein Phenotype: affects iron uptake and release in different tissues 
+RPS3A	gene symbol: RPS3A. Functionality: ribosomal protein Phenotype: s3ae family of ribosomal proteins, cytoplasm 
+RPL10	gene symbol: RPL10. Functionality: ribosomal protein Phenotype: skin cancer 
+RPS15A	gene symbol: RPS15A. Functionality: ribosomal protein Phenotype: skin cancer 
+PI3	gene symbol: PI3. Functionality: encodes an elastase-specific inhibitor Phenotype: antimicrobial peptide against gram-positive and gram-negative bacteria, and fungal pathogens 
+RPL18A	gene symbol: RPL18A. Functionality: ribosomal protein Phenotype: involved in protein synthesis and viral replication 
+S100A10	gene symbol: S100A10. Functionality: calcium binding protein involved in cellular signaling Phenotype: skin cancer development and progression 
+RPS7	gene symbol: RPS7. Functionality: ribosomal protein Phenotype: skin cancer 
+S100A7A	gene symbol: S100A7A. Functionality: enables identical protein binding activity Phenotype: skin cancer 
+RPL29	gene symbol: RPL29. Functionality: encodes a cytoplasmic ribosomal protein Phenotype: involved in protein synthesis and cell surface expression 
+RPL26	gene symbol: RPL26. Functionality: ribosomal protein l26 Phenotype: diamond-blackfan anemia 
+RPL41	gene symbol: RPL41. Functionality: mrna 3'-utr binding, mrna 5'-utr binding Phenotype: skin cancer 
+RPL4	gene symbol: RPL4. Functionality: ribosomal protein l4 Phenotype: involved in protein synthesis 
+RPL7	gene symbol: RPL7. Functionality: encodes a ribosomal protein that plays a regulatory role in the translation apparatus Phenotype: autoantigen in patients with systemic autoimmune diseases such as systemic lupus erythematosus 
+SPARC	gene symbol: SPARC. Functionality: regulates cell adhesion and migration Phenotype: increased risk of skin cancer 
+VIM	gene symbol: VIM. Functionality: maintains cell shape and integrity Phenotype: skin cancer 
+PTMA	gene symbol: PTMA. Functionality: enables dna-binding transcription factor binding activity and histone binding activity Phenotype: negative regulation of apoptotic process 
+RPS20	gene symbol: RPS20. Functionality: ribosomal protein Phenotype: skin cancer 
+MMP1	gene symbol: MMP1. Functionality: matrix metalloproteinase Phenotype: breaking down extracellular matrix, involved in tissue remodeling and disease processes 
+SH3BGRL3	gene symbol: SH3BGRL3. Functionality: cytoskeleton organization Phenotype: skin cancer risk 
+RPL15	gene symbol: RPL15. Functionality: component of 60s ribosomal subunit Phenotype: skin cancer 
+MYH9	gene symbol: MYH9. Functionality: encodes a conventional non-muscle myosin Phenotype: involved in several important functions, including cytokinesis, cell motility and maintenance of cell shape. defects in this gene have been associated with non-syndromic sensorineural deafness autosomal dominant type 17, epstein syndrome, alport syndrome with macrothrombocytopenia, sebastian syndrome, fechtner syndrome and macrothrombocytopenia with progressive sensorineural deafness. 
+GJA1	gene symbol: GJA1. Functionality: gap junction protein Phenotype: synchronized contraction of heart and embryonic development 
+ITM2B	gene symbol: ITM2B. Functionality: transmembrane protein processing Phenotype: inhibits beta-amyloid deposition 
+PPIA	gene symbol: PPIA. Functionality: peptidyl-prolyl cis-trans isomerase Phenotype: accelerates protein folding, cyclosporin binding, hiv protein interaction 
+RPL14	gene symbol: RPL14. Functionality: encodes a ribosomal protein Phenotype: involved in protein synthesis 
+UBC	gene symbol: UBC. Functionality: ubiquitin precursor Phenotype: influences protein degradation, dna repair, cell cycle regulation, kinase modification, endocytosis, and regulation of other cell signaling pathways 
+RPL5	gene symbol: RPL5. Functionality: ribosomal protein Phenotype: skin cancer 
+CD44	gene symbol: CD44. Functionality: cell-surface glycoprotein involved in cell-cell interactions, cell adhesion and migration Phenotype: participates in a wide variety of cellular functions including lymphocyte activation, recirculation and homing, hematopoiesis, and tumor metastasis 
+AHNAK	gene symbol: AHNAK. Functionality: structural scaffold protein Phenotype: involved in blood-brain barrier formation, cell structure and migration, cardiac calcium channel regulation, and tumor metastasis 
+RPL21	gene symbol: RPL21. Functionality: ribosomal protein l21e Phenotype: involved in protein synthesis and ribosome biogenesis 
+DSC3	gene symbol: DSC3. Functionality: encodes desmocollin protein Phenotype: cell-cell junction, mechanical stress, arrhythmogenic right ventricular dysplasia-11, cancer 
+CNFN	gene symbol: CNFN. Functionality: keratinization Phenotype: skin cancer 
+CD24	gene symbol: CD24. Functionality: modulates growth and differentiation signals to mature granulocytes and b cells Phenotype: sialoglycoprotein expressed on mature granulocytes and b cells 
+CFL1	gene symbol: CFL1. Functionality: polymerize and depolymerize f-actin and g-actin Phenotype: involved in actin cytoskeleton reorganization, translocation of actin-cofilin complex from cytoplasm to nucleus 
+COL17A1	gene symbol: COL17A1. Functionality: encodes alpha chain of type xvii collagen, transmembrane protein Phenotype: associated with generalized atrophic benign and junctional epidermolysis bullosa 
+HSP90AA1	gene symbol: HSP90AA1. Functionality: inducible molecular chaperone Phenotype: aids in proper folding of specific target proteins 
+RPS16	gene symbol: RPS16. Functionality: ribosomal protein Phenotype: skin cancer 
+PKM	gene symbol: PKM. Functionality: encodes a protein involved in glycolysis Phenotype: plays a crucial role in cellular metabolism 
+NACA	gene symbol: NACA. Functionality: nascent polypeptide-associated complex (nac) formation Phenotype: skin cancer prevention 
+RPS5	gene symbol: RPS5. Functionality: encodes a ribosomal protein Phenotype: involved in protein synthesis 
+ALDOA	gene symbol: ALDOA. Functionality: glycolytic enzyme Phenotype: involved in hemolytic anemia and cancer development 
+H3F3B	gene symbol: H3F3B. Functionality: histone h3 family member Phenotype: nucleosome structure and chromatin compaction 
+S100A16	gene symbol: S100A16. Functionality: calcium ion binding and transition metal ion binding Phenotype: skin barrier establishment and cell envelope organization 
+TAGLN2	gene symbol: TAGLN2. Functionality: tumor suppressor Phenotype: skin cancer 
+HLA-C	gene symbol: HLA-C. Functionality: presents peptides derived from endoplasmic reticulum lumen to t-cells Phenotype: class i molecule, plays a central role in the immune system 
+TRIM29	gene symbol: TRIM29. Functionality: transcriptional regulatory factor involved in carcinogenesis and/or differentiation Phenotype: skin cancer 
+LYPD3	gene symbol: LYPD3. Functionality: Enables laminin binding activity. Phenotype: Regulates smooth muscle cell apoptosis
+FAU	gene symbol: FAU. Functionality: encodes a fusion protein consisting of fubi and ribosomal protein s30 Phenotype: antimicrobial activity 
+LMNA	gene symbol: LMNA. Functionality: nuclear lamina component Phenotype: skin cancer, emery-dreifuss muscular dystrophy, familial partial lipodystrophy, limb girdle muscular dystrophy, dilated cardiomyopathy, charcot-marie-tooth disease, hutchinson-gilford progeria syndrome 
+SPINK5	gene symbol: SPINK5. Functionality: encodes a multidomain serine protease inhibitor Phenotype: involved in skin and hair morphogenesis, anti-inflammatory and antimicrobial protection of mucous epithelia 
+SPRR2E	gene symbol: SPRR2E. Functionality: forms cornified cell envelope in skin Phenotype: barrier against extracellular and environmental factors 
+RPL22	gene symbol: RPL22. Functionality: encodes a cytoplasmic ribosomal protein Phenotype: involved in protein synthesis and viral rna binding 
+KRT2	gene symbol: KRT2. Functionality: type ii cytokeratin Phenotype: skin cancer, bullous congenital ichthyosiform erythroderma 
+CST3	gene symbol: CST3. Functionality: inhibits cysteine proteases Phenotype: protective functions in various organs, vascular disease, amyloid angiopathy 
+DSG3	gene symbol: DSG3. Functionality: calcium-binding transmembrane glycoprotein component of desmosomes Phenotype: autoantigen of autoimmune blistering disease pemphigus vulgaris 
+CLCA2	gene symbol: CLCA2. Functionality: regulates chloride transport Phenotype: inhibits migration and invasion, promotes mesenchymal-to-epithelial transition 
+RPSA	gene symbol: RPSA. Functionality: laminin receptor Phenotype: involved in cell adhesion, differentiation, migration, signaling, neurite outgrowth and metastasis 
+DSG1	gene symbol: DSG1. Functionality: encodes desmoglein protein subfamily member Phenotype: skin cell-cell junctions, desmosome, autoimmune skin blistering disease pemphigus foliaceus, palmoplantar keratoderma, erythroderma 
+RPS9	gene symbol: RPS9. Functionality: ribosomal protein Phenotype: colorectal cancer 
+NDRG1	gene symbol: NDRG1. Functionality: stress responses, hormone responses, cell growth, and differentiation Phenotype: involved in p53-mediated caspase activation and apoptosis, charcot-marie-tooth disease type 4d, cancer prognostic indicator 
+AC090498.1	gene symbol: AC090498.1. Functionality: encodes a protein involved in dna repair and checkpoint activation Phenotype: increased risk of skin cancer 
+GRN	gene symbol: GRN. Functionality: regulates cell growth Phenotype: plays a role in normal development, wound healing, and tumorigenesis 
+TXN	gene symbol: TXN. Functionality: nitric oxide response protein Phenotype: s-nitrosylation of cysteines in proteins 
+HSPA8	gene symbol: HSPA8. Functionality: chaperone and atpase Phenotype: facilitates correct folding of nascent polypeptides and disassembly of clathrin-coated vesicles 
+TGFBI	gene symbol: TGFBI. Functionality: encodes rgd-containing protein that modulates cell adhesion and collagen interactions Phenotype: associated with multiple types of corneal dystrophy 
+CTSB	gene symbol: CTSB. Functionality: lysosomal cysteine protease with endopeptidase and exopeptidase activity Phenotype: involved in protein turnover, amyloid precursor protein secretase, esophageal adenocarcinoma, tumor, sars-cov-2 spike protein cleavage 
+SPRR2D	gene symbol: SPRR2D. Functionality: involved in female gonad development Phenotype: skin cancer 
+HLA-DRA	gene symbol: HLA-DRA. Functionality: presents peptides derived from extracellular proteins to t cells Phenotype: expressed on the surface of various antigen presenting cells such as b lymphocytes, dendritic cells, and monocytes/macrophages 
+ACTN4	gene symbol: ACTN4. Functionality: actin-binding protein involved in cytoskeleton organization Phenotype: involved in metastatic processes and mutations associated with focal and segmental glomerulosclerosis 
+RPS21	gene symbol: RPS21. Functionality: encodes a ribosomal protein Phenotype: involved in protein synthesis 
+EIF1	gene symbol: EIF1. Functionality: translation initiation factor Phenotype: skin cancer 
+CTSD	gene symbol: CTSD. Functionality: peptidase Phenotype: plays a role in protein turnover and in the proteolytic activation of hormones and growth factors 
+ARPC2	gene symbol: ARPC2. Functionality: actin polymerization regulation Phenotype: skin cancer 
+CALML3	gene symbol: CALML3. Functionality: calcium ion binding Phenotype: skin cancer 
+KLK7	gene symbol: KLK7. Functionality: kallikrein subfamily peptidase s1 family serine protease Phenotype: involved in carcinogenesis, alzheimer's disease, parkinson's disease and psoriasis 
+CALM1	gene symbol: CALM1. Functionality: calcium-induced activation regulator Phenotype: skin cancer susceptibility 
+GNAS	gene symbol: GNAS. Functionality: regulates imprinting in this region Phenotype: involved in skin cancer 
+DYNLL1	gene symbol: DYNLL1. Functionality: involved in intracellular transport and motility Phenotype: skin cancer 
+FLG	gene symbol: FLG. Functionality: fibroblast growth factor receptor Phenotype: skin cancer, pfeiffer syndrome, jackson-weiss syndrome, antley-bixler syndrome, osteoglophonic dysplasia, autosomal dominant kallmann syndrome 
+FLNA	gene symbol: FLNA. Functionality: actin-binding protein involved in cytoskeleton remodeling Phenotype: syndromes including periventricular nodular heterotopias, otopalatodigital syndromes, frontometaphyseal dysplasia, melnick-needles syndrome, x-linked congenital idiopathic intestinal pseudoobstruction 
+DST	gene symbol: DST. Functionality: adhesion junction protein Phenotype: skin blistering and neurodegeneration 
+SLC2A1	gene symbol: SLC2A1. Functionality: major glucose transporter in the mammalian blood-brain barrier Phenotype: increased risk of skin cancer 
+PSAP	gene symbol: PSAP. Functionality: surfactant protein Phenotype: skin cancer 
+EIF4G2	gene symbol: EIF4G2. Functionality: translation initiation repressor Phenotype: skin cancer 
+EEF1B2	gene symbol: EEF1B2. Functionality: translation elongation factor Phenotype: skin cancer 
+FGFBP1	gene symbol: FGFBP1. Functionality: secreted fibroblast growth factor carrier protein Phenotype: cell proliferation, differentiation, and migration 
+LGALS1	gene symbol: LGALS1. Functionality: regulates cell proliferation Phenotype: inhibits cell growth 
+ITGA6	gene symbol: ITGA6. Functionality: encodes a member of the integrin alpha chain family of proteins Phenotype: involved in cell surface adhesion and signaling, may promote tumorigenesis, negatively regulate erbb2/her2 signaling 
+MYL12B	gene symbol: MYL12B. Functionality: regulates nonmuscle myosin ii activity Phenotype: skin cancer 
+TPI1	gene symbol: TPI1. Functionality: glycolysis enzyme Phenotype: triosephosphate isomerase deficiency 
+RPL10A	gene symbol: RPL10A. Functionality: encodes a ribosomal protein Phenotype: downregulated in thymus by cyclosporin-a (csa) 
+TMEM45A	gene symbol: TMEM45A. Functionality: membrane protein involved in skin cancer Phenotype: increased risk of skin cancer 
+BTF3	gene symbol: BTF3. Functionality: transcriptional regulator Phenotype: skin cancer risk 
+DSTN	gene symbol: DSTN. Functionality: actin depolymerizing protein Phenotype: enhances actin filament turnover rate 
+RTN4	gene symbol: RTN4. Functionality: neurite outgrowth inhibitor Phenotype: skin cancer 
+HNRNPA2B1	gene symbol: HNRNPA2B1. Functionality: rna binding protein involved in pre-mrna processing and transport Phenotype: skin cancer association 
+LAD1	gene symbol: LAD1. Functionality: encodes alpha chain of type xvii collagen Phenotype: associated with skin cancer 
+ATP1A1	gene symbol: ATP1A1. Functionality: na+/k+ -atpase Phenotype: skin cancer 
+SERPINB3	gene symbol: SERPINB3. Functionality: enables cysteine-type endopeptidase inhibitor activity; protease binding activity; and virus receptor activity Phenotype: skin cancer 
+PRDX1	gene symbol: PRDX1. Functionality: antioxidant enzyme Phenotype: protects against oxidative stress, proliferative effect in cancer development 
+COL6A1	gene symbol: COL6A1. Functionality: types vi collagen subunit Phenotype: skin cancer 
+ATP5E	gene symbol: ATP5E. Functionality: mitochondrial atp synthase subunit Phenotype: increased risk of skin cancer 
+PPDPF	gene symbol: PPDPF. Functionality: involved in cell differentiation and torc1 signaling Phenotype: skin cancer 
+TYMP	gene symbol: TYMP. Functionality: angiogenic factor Phenotype: stimulates endothelial cell growth in vitro and angiogenesis in vivo 
+CD63	gene symbol: CD63. Functionality: transmembrane protein involved in signal transduction Phenotype: skin cancer progression 
+EIF5A	gene symbol: EIF5A. Functionality: enables u6 snrna binding activity Phenotype: skin cancer biomarker 
+YWHAQ	gene symbol: YWHAQ. Functionality: signal transduction mediator Phenotype: skin cancer 
+PGK1	gene symbol: PGK1. Functionality: glycolytic enzyme, cofactor for polymerase alpha, angiogenesis, moonlighting protein Phenotype: hemolytic anemia, neurological impairment 
+HLA-E	gene symbol: HLA-E. Functionality: hla-e is a class i heavy chain paralogue that plays a role in the immune response by presenting a restricted subset of peptides to t-cells Phenotype: hla-e is expressed on the surface of many cell types, including epithelial cells, endothelial cells, and immune cells, and is involved in the immune response to cancer and viral infections. 
+IFITM3	gene symbol: IFITM3. Functionality: restricts cellular entry of diverse viral pathogens Phenotype: antiviral protein 
+RPS26	gene symbol: RPS26. Functionality: ribosomal protein Phenotype: skin cancer 
+IGFBP4	gene symbol: IGFBP4. Functionality: prolongs igfs half-life and alters their interaction with cell surface receptors Phenotype: skin cancer 
+OAZ1	gene symbol: OAZ1. Functionality: regulates intracellular polyamine levels Phenotype: negative regulation of polyamine biosynthesis 
+NPM1	gene symbol: NPM1. Functionality: centrosome duplication, protein chaperoning, cell proliferation Phenotype: skin cancer 
+LCE3D	gene symbol: LCE3D. Functionality: keratinization regulator Phenotype: skin cancer susceptibility 
+FXYD3	gene symbol: FXYD3. Functionality: regulator of na+/k+ atpases Phenotype: skin cancer 
+MT2A	gene symbol: MT2A. Functionality: metallothionein Phenotype: anti-oxidant, detoxification of heavy metals, cancer risk 
+COL6A2	gene symbol: COL6A2. Functionality: collagen alpha chain Phenotype: skin cancer 
+POLR2L	gene symbol: POLR2L. Functionality: rna polymerase ii subunit Phenotype: skin cancer risk 
+CD59	gene symbol: CD59. Functionality: regulates complement-mediated cell lysis and signal transduction pathways Phenotype: hemolytic anemia, thrombosis, cerebral infarction 
+HNRNPK	gene symbol: HNRNPK. Functionality: rna binding protein involved in pre-mrna processing and transport Phenotype: skin cancer susceptibility 
+RPL35	gene symbol: RPL35. Functionality: ribosomal protein l29p Phenotype: involved in protein synthesis and ribosome biogenesis 
+TMBIM6	gene symbol: TMBIM6. Functionality: endoribonuclease inhibitor activity and ubiquitin protein ligase binding Phenotype: negative regulation of intrinsic apoptotic signaling pathway, negative regulation of macromolecule metabolic process, response to l-glutamate 
+HSP90AB1	gene symbol: HSP90AB1. Functionality: heat shock protein Phenotype: skin cancer 

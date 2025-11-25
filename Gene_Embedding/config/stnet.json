@@ -1,0 +1,10 @@
+{
+    "gene_name": "stnet", 
+    "gene_file": "genes_stnet.npy", 
+    "gene_summary_path": "./stnet_go/", 
+    "gene_database": "go", 
+    "gene_description_filename": "genes_stnet_gpt4o_go.txt", 
+    "LLM_type": "gpt-4o", 
+    "gene_encoding_type": "biogpt", 
+    "gene_describe_encoding_file": "genes_stnet_gpt4o_gobiogpt.pt"
+    }
