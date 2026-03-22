@@ -125,14 +125,16 @@ Our study builds upon previous studies: [TRIPLEX](https://github.com/NEXGEM/TRIP
 Please kindly cite our paper if our work could be helpful for your study. Thank you.
 
 ```
-@misc{zhang2025dkan,
-      title={Dual-Path Knowledge-Augmented Contrastive Alignment Network for Spatially Resolved Transcriptomics}, 
-      author={Wei Zhang and Jiajun Chu and Xinci Liu and Chen Tong and Xinyue Li},
-      year={2025},
-      eprint={2511.17685},
-      archivePrefix={arXiv},
-      primaryClass={q-bio.QM},
-      url={https://arxiv.org/abs/2511.17685}, 
+@inproceedings{zhang2025dkan,
+  title={Dual-Path Knowledge-Augmented Contrastive Alignment Network for Spatially Resolved Transcriptomics},
+  author={Zhang, Wei and Chu, Jiajun and Liu, Xinci and Tong, Chen and Li, Xinyue},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={15},
+  pages={12807--12815},
+  year={2026}
 }
 ```
+
+
 
